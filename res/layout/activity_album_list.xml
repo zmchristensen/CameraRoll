@@ -1,0 +1,8 @@
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/album_list"
+    android:name="com.zachchristensen.cameraroll.AlbumListFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.zachchristensen.cameraroll.AlbumListActivity"
+    tools:layout="@android:layout/list_content" />
