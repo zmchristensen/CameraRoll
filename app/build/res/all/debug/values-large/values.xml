@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/ZachChristensen/Documents/Development/AndroidStudioProjects/CameraRoll/app/src/main/res/values-large/refs.xml -->
+    <eat-comment />
+
+    <item name="activity_album_list" type="layout">@layout/activity_album_twopane</item>
+
+</resources>
